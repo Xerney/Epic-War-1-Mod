@@ -14,4 +14,4 @@ Sponsor Perks:
 - Access to early access builds of my projects
 - Have your bug reports prioritized
 
-https://www.dropbox.com/s/teqcqp3bcfs1dak/forge-1.12.2-14.23.5.2859-installer.jar?dl=1
+https://www.dropbox.com/s/u3940nlv97f46jw/mods.zip?dl=1
