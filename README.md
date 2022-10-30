@@ -14,4 +14,3 @@ Sponsor Perks:
 - Access to early access builds of my projects
 - Have your bug reports prioritized
 
-https://www.dropbox.com/s/u3940nlv97f46jw/mods.zip?dl=1
